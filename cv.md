@@ -5,19 +5,15 @@
 e-mail: djerana25@gmail.com  
 GitHub: [Djerana](https://github.com/Djerana)
   
-  ---
-  ## Skills ##  
+## Skills ##  
   - HTML
   - CSS
   - Git
   - JavaScript
 
-  ---
-  ## Code Example ##
+## Code Example ##
 
-  ---   
-  ## Education
+## Education ##
 
-  ---
-  ## Languages
+## Languages ##
   
